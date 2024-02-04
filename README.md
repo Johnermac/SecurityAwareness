@@ -1,3 +1,5 @@
+![Alt Text](https://johnermac.github.io/assets/images/main/header2.jpg)
+
 Hi, I've written a document to raise awareness in such topics: Passwords, Wi-Fi, Home office, Social Media, and Safe Web Browsing. 
 
 
@@ -13,4 +15,4 @@ The issues presented in this guide address common errors observed in the daily a
 
 https://johnermac.github.io/awareness/awarenessdoc/
 
-![Alt Text](https://johnermac.github.io/assets/images/main/header2.jpg)
+

@@ -9,8 +9,6 @@ Research suggests that human error is present in 90% of information leakage case
 The issues presented in this guide address common errors observed in the daily activities of employees in any company, such as those related to email access, internet browsing, improper use of external devices, among others. Therefore, we have included mandatory rules in this document that must be followed by all employees working with company equipment and/or in their digital environments, as well as recommendations for best practices to enhance the security of our technological environment. We will continuously monitor compliance with the rules and recommendations presented here.
 
 
-> You can get the full PDF and word document in my page. Link below. 
-
 > Feel free to download and modify the doc as you wish.
 
 https://johnermac.github.io/awareness/awarenessdoc/

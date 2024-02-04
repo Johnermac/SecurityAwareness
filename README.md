@@ -12,3 +12,5 @@ The issues presented in this guide address common errors observed in the daily a
 > Feel free to download and modify the doc as you wish.
 
 https://johnermac.github.io/awareness/awarenessdoc/
+
+![Alt Text](https://johnermac.github.io/assets/images/main/header2.jpg)
